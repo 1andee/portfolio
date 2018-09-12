@@ -34,7 +34,7 @@ module.exports = [
     name: 'Hedberg Quote Machine',
     description: 'Random quotes from the late great comedian Mitch Hedberg',
     github: 'https://github.com/1andee/hedberg-quote-machine',
-    website: 'http://hedberg-qotes.herokuapp.com/'
+    website: 'http://hedberg-quotes.herokuapp.com'
   },
   {
     name: 'Air Canada Fin Lookup',

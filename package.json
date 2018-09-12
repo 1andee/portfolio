@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "engines": {
-    "node": ">=4"
+    "node": "8.x.x"
   },
   "scripts": {
     "analyze": "webpack --config webpack/webpack.client.babel.js --profile --json > stats.json",

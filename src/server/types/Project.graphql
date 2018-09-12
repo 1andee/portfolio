@@ -1,0 +1,10 @@
+type Project {
+  # Project name
+  name: String
+  # Program description
+  description: String
+  # Repository URL
+  github: String
+  # Website (if deployed)
+  website: String
+}

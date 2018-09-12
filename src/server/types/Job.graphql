@@ -1,0 +1,12 @@
+type Job {
+  # Company name
+  company: String
+  # Title
+  title: String
+  # Where this job was located
+  location: String
+  # Start date
+  started: String
+  # End date
+  finished: String
+}

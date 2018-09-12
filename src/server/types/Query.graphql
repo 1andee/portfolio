@@ -1,0 +1,24 @@
+# Here's all the field types you can use in your query!
+type Query {
+  # My Name
+  name: String
+  # My Age
+  age: String
+  # My Email
+  email: String
+  # My current employer
+  company: String
+  # My Twitter
+  twitter: String
+  # My GitHub
+  github: String
+  # My LinkedIn
+  linkedin: String
+  # Am I employed?
+  employed: Boolean
+  jobs: [Job]
+  repos: [Repo]
+  talks: [Talk]
+  projects: [Project]
+  education: [Education]
+}

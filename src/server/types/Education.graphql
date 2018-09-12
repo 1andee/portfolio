@@ -1,0 +1,10 @@
+type Education {
+  # Institution name
+  school: String
+  # Program name
+  program: String
+  # Start date
+  started: String
+  # End date
+  finished: String
+}

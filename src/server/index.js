@@ -34,7 +34,6 @@ const typeDefs = Query.concat(
 const resolvers = {
   Query: {
     name: () => data.name,
-    age: () => data.age,
     email: () => data.email,
     company: () => data.company,
     twitter: () => data.twitter,

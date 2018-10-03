@@ -2,8 +2,6 @@
 type Query {
   # My Name
   name: String
-  # My Age
-  age: String
   # My Email
   email: String
   # My current employer

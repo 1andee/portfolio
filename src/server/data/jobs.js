@@ -1,5 +1,12 @@
 module.exports = [
   {
+    company: 'Koho Financial',
+    title: 'Junior Software Engineer',
+    location: 'Toronto, ON',
+    started: 'Dec 2018',
+    finished: ''
+  },
+  {
     company: 'The Farm Ventures',
     title: 'Junior Developer (Full Stack)',
     location: 'Uxbridge, ON',
